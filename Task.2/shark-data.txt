@@ -1,0 +1,25 @@
+Swell Shark:Cephaloscyllium ventriosum:100:457:UNKNOWN:1:Eastern Pacific
+Tiger Shark:Galeocerdo cuvier:600:400:82:8:Western Atlantic, Eastern North Atlantic, Indian Ocean, Western Pacific, Western Central Pacific, Eastern Pacific
+Great Hammerhead Shark:Sphyrna mokarren:600:80:42:8:Western Atlantic, Eastern Atlantic, Indo-Pacific
+Shortfin Mako Shark:Isurus oxyrinchus:394:152:16:9:Atlantic, Indian Ocean, Pacific 
+Bull Shark:Carcharhinus leucas:320:152:13:5:Western Atlantic, Eastern Atlantic, Western Indian Ocean, Western Pacific, Eastern Pacific
+Great White Shark:Charcharodon charcharias:594:300:10:6:Western Atlantic, Eastern Atlantic, Western Indian Ocean, Western Pacific, Central Pacific, Eastern Pacific
+Nurse Shark:Ginglymostoma cirratum:300:12:30:3:Western Atlantic, Eastern Atlantic, Eastern Pacific
+Whitetip Reef Shark:Trianoden obesus:213:110:5:6:Indo-Pacific, Central Pacific, Eastern Pacific
+Variegated Shark:Stegostoma fasciatum:345:30:4:4:Indian Ocean, Western Pacific
+Southern Stingray:Dasyatis americana:190:25:5:1:Western Atlantic
+Tasselled Wobegong Shark:Eucrossorhinus dasypogon:366:50:20:1:Western South Pacific
+Eagle Ray:Aetobatus narinari:250:24:4:9:Circumtropical
+Basking Shark:Cetorhinus maximus:1300:200:6:5:Western Atlantic, Eastern Atlantic, Western Indian Ocean, Western Pacific, Eastern Pacific
+Lemon Shark:Negaprion brevirostris:340:92:17:3:Western Atlantic, Eastern North Atlantic, Eastern Pacific
+Caribbean Reef Shark:Carcharhinus perezi:295:60:6:1:Western Atlantic
+Californian Angel Shark:Squatina californica:183:150:20:1:Eastern North Pacific
+Horn Shark:Heterodontus francisci:122:150:2:1:Eastern Pacific
+Grey Reef Shark:Carcharhinus amblyrhychos:255:100:6:4:Indian Ocean, Western Central Pacific
+Bowmouth Guitarfish:Rhina ancylostoma:240:90:4:4:Indian Ocean, Western Pacific
+Silvertip Shark:Carcharhinus albimarginatus:300:800:11:3:Western Indian Ocean, Western Central Pacific, Eastern Pacific
+Spiny Dogfish:Squalus acanthias:160:900:15:8:Western Atlantic, Eastern Atlantic, Western Pacific, Central Pacific, Eastern Pacific, Eastern Indian Ocean
+Silky Shark:Carcharhinus falciformis:330:500:15:8:Western Atlantic, Eastern Atlantic, Indian Ocean, Western Pacific, Central Pacific, Eastern Pacific
+Blacknose Shark:Carcharhinus acronotus:200:38:6:1:Western Atlantic
+Oceanic Whitetip Shark:Carcharhinus longimanus:395:152:15:9:Atlantic, Pacific, Indian Ocean
+Blue Shark:Prionace glaura:383:152:135:9:Western Atlantic, Central Atlantic, Eastern Atlantic, Indian Ocean, Western Pacific, Central Pacific, Eastern Pacific
